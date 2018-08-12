@@ -2,17 +2,17 @@
 
 # Site settings
 title: Abhishek Bamotra
-email: abhibamotra1707@gmail.com
+email: abamotra1707@gmail.com
 description: Resume, projects, internships, blog of Abhishek Bamotra.
 baseurl: ""
 url: ""
 name: Abhishek Bamotra
 job: mechatronics undergraduate
 location: Thapar University, India
-languages: Arduino, ROS and CAD
+languages: Arduino, Robotics and CAD
 twitter_username: abhibamotra
 github_username:  abhishekbamotra
-email_address: abhibamotra1707@gmail.com
+email_address: abamotra1707@gmail.com
 
 # Build settings
 markdown: kramdown
